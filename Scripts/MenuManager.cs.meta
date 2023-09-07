@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 05462e906bd03cb4b900683190ddb840
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainMenuPage: {instanceID: 0}
+  - optionsPage: {instanceID: 0}
+  - singlePlayerPage: {instanceID: 0}
+  - multiplayerPage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
